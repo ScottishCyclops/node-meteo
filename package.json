@@ -1,0 +1,17 @@
+{
+  "name": "@scottishcyclops/node-meteo",
+  "version": "1.0.0",
+  "description": "Package using the Darksky API to retrieve forecast data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "forecast",
+    "darksky",
+    "meteo",
+    "api"
+  ],
+  "author": "Scott Winkelmann",
+  "license": "MIT"
+}
